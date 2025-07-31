@@ -2,6 +2,8 @@
 
 This project allows you to control your computer's mouse and a virtual keyboard using hand gestures detected through your webcam. It is built with Python using OpenCV, MediaPipe, and PyAutoGUI.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ## Features ✨
 
 * **Mode Switching**: Seamlessly switch between Mouse, Keyboard, and Neutral modes with a fist gesture.

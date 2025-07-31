@@ -18,12 +18,6 @@ This project allows you to control your computer's mouse and a virtual keyboard 
 
 ---
 
-## 📂 Folder Structure
-
-<pre lang="markdown"><code>```text virtual-mouse-keyboard/ ├── main.py ├── utils.py ├── gestures.md ├── README.md └── .gitignore ```</code></pre>
-
----
-
 ## ⚙️ Setup and Installation
 
 1.  **Clone the repository or create the file structure:**

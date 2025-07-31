@@ -30,3 +30,6 @@ python main.py
 ```
 
 A window will open showing your webcam feed. Press 'q' to quit the application at any time. Refer to `gestures.md` for a full guide on how to control the application.
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)

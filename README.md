@@ -47,7 +47,7 @@ Press 'q' to quit the application at any time.
 ---
 
 ## 📸 Demo
-Coming Soon: A GIF or short demo video showing the mouse and keyboard in action!
+> *Coming Soon: A GIF or short demo video showing the mouse and keyboard in action!*
 
 ---
 
@@ -57,20 +57,20 @@ This project is licensed under the [MIT License](https://opensource.org/license/
 ---
 
 ## 🙌 Contributing
-Pull requests are welcome! For major changes, open an issue first to discuss what you’d like to change.
+> *Pull requests are welcome! For major changes, open an issue first to discuss what you’d like to change.*
 
 ---
 
 ## ⭐ Show Your Support
-If you like this project, leave a ⭐ on the repo and share it with your peers!
+> *If you like this project, leave a ⭐ on the repo and share it with your peers!*
 
 ---
 
 ## 🔗 Connect
-- • 👨‍💻 Developed by: Saptarshi Mukherjee
-- • 💼 [LinkedIn](https://www.linkedin.com/in/saptarshi-mukherjee-096191263)
-- • 🐦 [Twitter](https://x.com/MukherjeeXii) 
-- • 📧 [Gmail](mailto:mukherjeesaptarshi289@gmail.com)
-- • 📸 [Instagram](https://www.instagram.com/saptarshi.mukherjee.31392?igsh=a3JjbW5kbGhmdHcw)
-- • 📘 [Facebook](https://www.facebook.com/saptarshi.mukherjee.31392?mibextid=ZbWKwL)
-- • 🐙 [GitHub](https://github.com/Sappymukherjee214)
+-  👨‍💻 Developed by: Saptarshi Mukherjee
+-  💼 [LinkedIn](https://www.linkedin.com/in/saptarshi-mukherjee-096191263)
+-  🐦 [Twitter](https://x.com/MukherjeeXii) 
+-  📧 [Gmail](mailto:mukherjeesaptarshi289@gmail.com)
+-  📸 [Instagram](https://www.instagram.com/saptarshi.mukherjee.31392?igsh=a3JjbW5kbGhmdHcw)
+-  📘 [Facebook](https://www.facebook.com/saptarshi.mukherjee.31392?mibextid=ZbWKwL)
+-  🐙 [GitHub](https://github.com/Sappymukherjee214)

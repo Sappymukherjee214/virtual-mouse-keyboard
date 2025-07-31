@@ -20,12 +20,7 @@ This project allows you to control your computer's mouse and a virtual keyboard 
 
 ## 📂 Folder Structure
 
-virtual-mouse-keyboard/
-├── main.py
-├── utils.py
-├── gestures.md
-├── README.md
-└── .gitignore
+<pre lang="markdown"><code>```text virtual-mouse-keyboard/ ├── main.py ├── utils.py ├── gestures.md ├── README.md └── .gitignore ```</code></pre>
 
 ---
 
@@ -39,6 +34,7 @@ virtual-mouse-keyboard/
     ```bash
     pip install opencv-python mediapipe pyautogui numpy
     ```
+---
 
 ## ▶️ How to Run
 
@@ -54,17 +50,27 @@ Press 'q' to quit the application at any time.
 
 👉 Refer to `gestures.md` for a full guide on how to control the application.
 
+---
+
 ## 📸 Demo
 Coming Soon: A GIF or short demo video showing the mouse and keyboard in action!
+
+---
 
 ## 📃 License
 This project is licensed under the MIT License.
 
+---
+
 ## 🙌 Contributing
 Pull requests are welcome! For major changes, open an issue first to discuss what you’d like to change.
 
+---
+
 ## ⭐ Show Your Support
 If you like this project, leave a ⭐ on the repo and share it with your peers!
+
+---
 
 ## 🔗 Connect
 • 👨‍💻 Developed by: Saptarshi Mukherjee

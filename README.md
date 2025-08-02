@@ -67,7 +67,8 @@ This project is licensed under the [MIT License](https://opensource.org/license/
 ---
 
 ## 🔗 Connect
--  👨‍💻 Developed by: Saptarshi Mukherjee
+👨‍💻 Developed by: Saptarshi Mukherjee
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/saptarshi-mukherjee-096191263)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://x.com/MukherjeeXii)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white)](mailto:mukherjeesaptarshi289@gmail.com)

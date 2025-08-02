@@ -68,9 +68,9 @@ This project is licensed under the [MIT License](https://opensource.org/license/
 
 ## 🔗 Connect
 -  👨‍💻 Developed by: Saptarshi Mukherjee
--  💼 [LinkedIn](https://www.linkedin.com/in/saptarshi-mukherjee-096191263)
--  🐦 [Twitter](https://x.com/MukherjeeXii) 
--  📧 [Gmail](mailto:mukherjeesaptarshi289@gmail.com)
--  📸 [Instagram](https://www.instagram.com/saptarshi.mukherjee.31392?igsh=a3JjbW5kbGhmdHcw)
--  📘 [Facebook](https://www.facebook.com/saptarshi.mukherjee.31392?mibextid=ZbWKwL)
--  🐙 [GitHub](https://github.com/Sappymukherjee214)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/saptarshi-mukherjee-096191263)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://x.com/MukherjeeXii)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white)](mailto:mukherjeesaptarshi289@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram)](https://www.instagram.com/saptarshi.mukherjee.31392?igsh=a3JjbW5kbGhmdHcw)
+[![Facebook](https://img.shields.io/badge/Facebook-Visit-1877F2?logo=facebook)](https://www.facebook.com/saptarshi.mukherjee.31392?mibextid=ZbWKwL)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github)](https://github.com/Sappymukherjee214)
